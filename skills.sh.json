@@ -1,0 +1,10 @@
+{
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Fun",
+      "description": "Personality skills that make agent work less dry.",
+      "skills": ["standup-mode", "commit-roast"]
+    }
+  ]
+}
